@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.mainBg {
+  background-image: url("./assets/electricity_nov_16.jpg");
+}
+
+.UserPageBody {
+  background-image: url("./assets/power-towers-5921187_1280.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: #9c9e9a17;
+  
+ }
+
